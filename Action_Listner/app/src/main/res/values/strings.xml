@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Action_Listner</string>
+    <string name="message_text">Hello Akash</string>
+    <string name="button_text">MAGIC</string>
+</resources>
